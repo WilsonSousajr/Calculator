@@ -16,14 +16,16 @@
 
 <br/><br/><br/>
 
-<h1>Status: ✅Complete✅</h1
+<h1>Status: 
+🚧 Under construction
+🚧 </h1
  
  
 <br/><br/>
  
 <h1 id="objective">🎯 Objective</h1>
  
-<p>The aim of the project is mainly to test my knowledge of HTML Logic CSS and JAVASCRIPT</p>
+<p>Treinar meus conhecimentos em Javascript Css e HTML além de também treinar meus conhecimentos em responsividade, mobile first, ui/ux desing, tudo isso com base no projeto desenvolvido no Figma: <a href=“https://www.figma.com/file/f8TyTQsOo1HDj9yx8czu8Q/Calculator“>Layout</a></p>
  
 <br/><br/>
  
@@ -34,7 +36,7 @@
 
 ```cmd
 # Clone this repository
-git clone <https://github.com/Willnapolitano/Calculator.git>
+git clone <https://github.com/WilsonJunior1/Calculator.git>
 
 # Go to the project's folder
 cd Calculator
@@ -49,7 +51,7 @@ cd Calculator
  
 ```bash
 # Clone this repository
-git clone <https://github.com/Willnapolitano/Calculator.git>
+git clone <https://github.com/WilsonJunior1/Calculator.git>
 
 # Go to the project's folder
 cd Calculator
@@ -62,7 +64,7 @@ cd Calculator
 
 ```bash
 # Clone this repository
-git clone <https://github.com/Willnapolitano/Calculator.git>
+git clone <https://github.com/WilsonJunior1/Calculator.git>
 
 # Go to the project's folder
 cd Calculator
@@ -79,6 +81,7 @@ cd Calculator
  <li>HTML5</li>
  <li>CSS3</li>
  <li>JAVASCRIPT</li>
+ <li>Figma</l1>
 </ul>
 
 <br/><br/>
@@ -98,15 +101,8 @@ cd Calculator
 
 <br/><br/>
 
-<h1 id="printscreen">📷 Printscreen</h1>
-        
-<img src="./Img/Screenshot_2021-01-04 Calculator.png ">
-
-<br/><br/>
-
-<br/>
 
 <h1 id="author" align="center">Author</h1>
 
-<p align="center">José Wilson Barbosa de Sousa Junior</h1>
+<p align="center">Wilson J</h1>
  
