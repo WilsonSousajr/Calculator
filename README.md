@@ -17,7 +17,7 @@
 <br/><br/><br/>
 
 <h1>Status: 
-🚧 Under construction
+🚧 Under construction.
 🚧 </h1
  
  
