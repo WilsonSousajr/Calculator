@@ -103,5 +103,4 @@ cd Calculator
 
 <h1 id="author" align="center">Author</h1>
 
-<p align="center">Wilson J</h1>
- 
+<p align="center">Wilson Júnior</h1>
